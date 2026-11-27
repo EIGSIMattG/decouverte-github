@@ -13,8 +13,9 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - la documentation.
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
-Utilisateur B: Mattéo P
+
 
 Utilisateur A: Matt G
+Utilisateur B: Mattéo P
 
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
