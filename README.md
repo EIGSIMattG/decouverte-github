@@ -15,6 +15,6 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
 Utilisateur B: Mattéo P
 
-Créateur : Matt G
+Utilisateur : Matt G
 
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
